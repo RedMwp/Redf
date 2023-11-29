@@ -1,0 +1,13 @@
+.nav-link{
+    color:#171717;
+}
+@media (min-width:500px){
+    .container{
+        width: 90%;
+        max-width: 1440px;
+    }
+}
+
+.col-50{
+    background: pink;
+}
